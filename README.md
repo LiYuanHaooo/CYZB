@@ -2,6 +2,10 @@
 
 ## 智慧之本、创新之源——一个知心、知技、知行的知识产权信息助手
 
+## 💟 模型链接
+感谢书生·浦原大模型比赛，模型文件请 [点击此处](https://openxlab.org.cn/models/detail/ShangZhuanShuZhi/CYZB)！
+
+
 ## 📕 项目背景
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;知识产权行业作为近年来愈发火爆的产业，已经受到越来越多的高等院校、科研机构等科创主体的重视；
